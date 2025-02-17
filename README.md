@@ -22,7 +22,7 @@ Resume GPT is an efficient recruitment assistant powered by OpenAI's GPT-3.5. Th
 
 1. Clone the repository.
 ```
-git clone https://github.com/aliaryan/ResumeGPT.git
+git clone https://github.com/iamshubhdeep/resume_screening.git
 ```
 2. Change directory to the cloned repository.
 ```
